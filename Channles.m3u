@@ -12,5 +12,5 @@ http://27.67.64.76:18080//154_1.m3u8?AdaptiveType=HLS&SessionID=f37ab655-d46d-46
 #EXTINF:-4, VTV2 HD
 http://27.67.64.106:18080//192_1.m3u8?AdaptiveType=HLS&SessionID=3925b6a5-8e97-454e-a5c9-b41ff996c0ea&MinBw=0&MaxBw=2000000
 
-#EXTINF:-4, VTV3 HD
+#EXTINF:-5, VTV3 HD
 http://27.67.80.99:18080//155_2.m3u8?AdaptiveType=HLS&SessionID=bd3901a6-3d0f-4443-a63c-6abaff611ff2&MinBw=0&MaxBw=2000000
