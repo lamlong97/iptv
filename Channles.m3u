@@ -4,4 +4,10 @@
 http://cdn5.xemtivivn.com/live/4zHCEo8NUVnfagDq2ABVnQ/1584154383/vtvcab5.m3u8
 
 #EXTINF:-2, HBO HD
-http://cdn4.xemtivivn.com:80/live/B0kPN7N2CT55GIIrqJbdzQ/1584120191/hbo.m3u8
+http://cdn1.xemtivivn.com/live/JJ5mWYQBmJoKKY_nZMRCDQ/1584154590/hbo.m3u8
+
+#EXTINF:-3, VTV1 HD
+https://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
+
+#EXTINF:-4, VTV2 HD
+http://27.67.64.106:18080/192_1.m3u8
