@@ -1,13 +1,5 @@
 #EXTM3U Group
 
 #EXTINF:-1, Echannel
-http://cdn5.xemtivivn.com/live/XseGoqDy6aqrfttywiWQOg/1584277292/vtvcab5.m3u8
+http://cdn1.tvmienphi.tv/live/vtvcab5/index.m3u8?token=js3YLVz8dac0s8ehGUI5Fw&e=1584358741
 
-#EXTINF:-2, HBO
-http://cdn2.xemtivivn.com/live/8tBM3efniEscqnFVNXLLzg/1584268833/hbo.m3u8
-
-#EXTINF:-3, Start Movies
-http://cdn5.xemtivivn.com/live/gUnp34-zvD6v9Sulmmkecg/1584270754/movies.m3u8
-
-#EXTINF:-4, Cinemax
-http://cdn5.xemtivivn.com/live/Ie-iNMFJSIaSRaeLxPnA-Q/1584270820/max.m3u8
